@@ -1,0 +1,3 @@
+Loaders … intérpretes, parsers y pre-procesadores
+
+Plugins … librerías, métodos que aportan funcionalidades particulares en JS al entorno de webpack

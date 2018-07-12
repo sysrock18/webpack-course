@@ -1,0 +1,3 @@
+css-loader: habilita la función import(‘estilos.css’) para que cargue el archivo css como a una pila de archivos de estilos, pero sin incorporarlos aún al index.html.
+
+style-loader: incorpora los estilos que están en la pila de estilos al index.html en el bloque head.

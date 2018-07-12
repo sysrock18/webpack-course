@@ -1,0 +1,7 @@
+webpack --config ./webpack-dev-server/webpack.config.js --watch
+
+Usa el navegador directamente sobre el puerto 80 y requeiere el flag --watch y el refrescamiento manual del navegador para ver los cambios.
+
+webpack-dev-server --config ./webpack-dev-server/webpack.config.js
+
+Requiere de la instalación vía npm de webpack-dev-server, y cambiar la instrucción de build:dev … de webpack a webpack-dev-server, para verlo en ejecución hay que acceder a través de localhost:8080 pero ya no hace falta flag --watch ni, estar refrescando manualmente el navegador.
