@@ -1,0 +1,1 @@
+Da soporte tanto a imagenes que se importen en javascript como a las que se coloquen en las hojas de estilo
